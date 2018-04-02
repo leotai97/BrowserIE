@@ -1,0 +1,17 @@
+E:\Programs\BrowserIE\bin\Debug\BrowserIE.exe.config
+E:\Programs\BrowserIE\bin\Debug\BrowserIE.exe
+E:\Programs\BrowserIE\bin\Debug\BrowserIE.pdb
+E:\Programs\BrowserIE\bin\Debug\BrowserIE.xml
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.vbprojResolveAssemblyReference.cache
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.DirDlg.resources
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.FavoritesDlg.resources
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.MainWndIE.resources
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.Resources.resources
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.PictureDlg.resources
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.ShowPicsWnd.resources
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.TextDlg.resources
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.vbproj.GenerateResource.Cache
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.vbproj.CoreCompileInputs.cache
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.exe
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.xml
+E:\Programs\BrowserIE\obj\Debug\BrowserIE.pdb
